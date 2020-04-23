@@ -24,7 +24,7 @@ class B extends A
 }
 /*
 output: 
-0 arg cons of class A **only 0 arg cons of parent will excute**
+0 arg cons of class A **only 0 arg cons of parent will exceute**
 0 arg cons of class B
 */
 class C
