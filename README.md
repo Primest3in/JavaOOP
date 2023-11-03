@@ -1,2 +1,2 @@
-# JavaProg
+# JavaOOP
 some oop concepts
